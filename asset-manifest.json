@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monster-Rodoloex/static/css/main.adc5b389.css",
+    "main.js": "/Monster-Rodoloex/static/js/main.60d49fd8.js",
+    "static/js/787.fb09c81f.chunk.js": "/Monster-Rodoloex/static/js/787.fb09c81f.chunk.js",
+    "index.html": "/Monster-Rodoloex/index.html",
+    "main.adc5b389.css.map": "/Monster-Rodoloex/static/css/main.adc5b389.css.map",
+    "main.60d49fd8.js.map": "/Monster-Rodoloex/static/js/main.60d49fd8.js.map",
+    "787.fb09c81f.chunk.js.map": "/Monster-Rodoloex/static/js/787.fb09c81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc5b389.css",
+    "static/js/main.60d49fd8.js"
+  ]
+}
